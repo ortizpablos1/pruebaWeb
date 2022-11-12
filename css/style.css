@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contenedor-boton{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#inicio{
+    border-radius: 20px;
+    color: white;
+    padding: 5px 10px;
+    background-color: black;
+    margin: auto;
+    width: 150px;
+}
+.footeerd{
+    min-height: 100px;
+    margin: 0;
+    padding: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
